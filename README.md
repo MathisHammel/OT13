@@ -12,5 +12,5 @@ Le but du cours est de proposer une application permettant de traiter un flux de
 
 * **El-bachir Mourabit**
 * **Riham Razoki**
-* **Mathis Mammel**
+* **Mathis Hammel**
 * **Arnaud Dupeyrat**
