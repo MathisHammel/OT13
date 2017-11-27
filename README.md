@@ -6,7 +6,7 @@ Le but du cours est de proposer une application permettant de traiter un flux de
 -> TODO
 
 ## Comment lancer l'application
--> TODO
+Lancer le script `producer_deploy.sh` pour un client producteur de données ou `consumer_deploy.sh` pour lancer le serveur consommateur de données
 
 ## Authors
 
