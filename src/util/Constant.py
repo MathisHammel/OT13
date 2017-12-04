@@ -3,4 +3,4 @@ class ServerConfig:
     SERVER_ADRESS_CONSUMER = '0.0.0.0:9092'
 
 class Kafka :
-    TOPIC_NAME = 'cashReceiptTopic'
+    TOPIC_NAME = 'plsFix'
